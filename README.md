@@ -19,25 +19,3 @@ C.R.U.D. de Clínicas
 A aplicação deve permitir a execução de operações CRUD (Criar, Ler, Atualizar, Excluir) em registros de clínicas.
 
 Utilizando o sistema, é possível facilmente adicionar novas clínicas, visualizar informações detalhadas, atualizar dados existentes e remover registros e efetuar login e cadastros de usuários.
-
-O que esperamos
- Integração do projeto com Backend (efetuar processamentos que reflitam em um banco de dados a sua escolha);
- Efetuar sistema de Auth Guard, permitindo que apenas usuários logados possam acessar páginas restritas;
- Possibilidade de editar / excluir / criar e listar clínicas;
- Criação e login de usuários;
-Diferenciais
- Sistema responsivo (visualização em Desktop e Mobile)
- Integração com sistemas terceiros (ViaCep e Google Maps, por exemplo)
- Validação dos formulários
- Paginação dos itens (lazy loading applications)
- Possibilidade de filtragem nas clínicas
- Teste unitário para validação na criação de clinica (ex: Nome da clínica com menos de 4 letras deverá acusar que houve falha no teste)
- Muita criatividade na hora de codar
-Conclusão
-Procuramos alguém acima de tudo, capaz de solucionar problemas da forma mais criativa possível. Trazendo muita dinamicidade para o desenvolvimento.
-
-Então, aproveite cada linha de código, celebre suas conquistas e não hesite em experimentar algo novo para deixar o processo ainda mais interessante.
-
-E, claro, se divirta muito! Afinal, o aprendizado é uma jornada empolgante e, quem sabe, até mesmo um pouco divertida.
-
-Te aguardamos na próxima etapa, Boa sorte 🚀😊
